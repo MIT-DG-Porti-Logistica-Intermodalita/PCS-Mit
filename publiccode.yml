@@ -36,5 +36,6 @@ localisation:
   availableLanguages:
     - en
     - it
-riuso:
-  codiceIPA: m_inf
+it:
+  riuso:
+    codiceIPA: m_inf
