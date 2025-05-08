@@ -1,5 +1,5 @@
 publiccodeYmlVersion: "0.4"
-name: PCS-MIT-Messina
+name: PCS-MIT-
 url: https://github.com/MIT-DG-Porti-Logistica-Intermodalita/PCS-Mit
 softwareVersion: 1.0.0
 platforms:
@@ -14,19 +14,17 @@ developmentStatus: obsolete
 softwareType: standalone/web
 description:
   it-IT:
-    localisedName: PCS-MIT-Messina
-    shortDescription: Il Port Community System (PCS) di Messina è una piattaforma
-      digitale che facilita la gestione delle operazioni portuali
+    localisedName: PCS-MIT
+    shortDescription: Il Port Community System (PCS) del MIT è una piattaforma
+      digitale che gestisce le operazioni portuali
     longDescription: >-
-      Il Port Community System (PCS) di Messina è una piattaforma digitale che
-      facilita
-        la gestione delle operazioni portuali, migliorando l'efficienza logistica e la comunicazione 
-        tra gli operatori del porto di Messina.
+      Il Port Community System (PCS) del MIT è una piattaforma digitale che
+        gestisce le operazioni portuali, migliorando l'efficienza logistica e la comunicazione
+        tra gli operatori.
     features:
-      - Gestione delle operazioni di carico e scarico
-      - Coordinazione logistica tra operatori portuali
-      - Integrazione con sistemi doganali e di trasporto
-      - Monitoraggio e reporting delle attività portuali
+      - Ridurre i tempi di comunicazione tra le autorità portuali e gli operatori
+      - Snellire le operazioni logistiche, come il controllo degli accessi, il tracking delle merci e la gestione dei rifiuti
+      - Ottimizzare i flussi di traffico, con benefici diretti per oltre 22 milioni di passeggeri annuali
 legal:
   license: AGPL-3.0-or-later
 maintenance:
