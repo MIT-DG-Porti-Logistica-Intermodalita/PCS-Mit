@@ -15,8 +15,7 @@ softwareType: standalone/web
 description:
   it-IT:
     localisedName: PCS-MIT
-    shortDescription: Il Port Community System (PCS) del MIT è una piattaforma
-      digitale che gestisce le operazioni portuali
+    shortDescription: Piattaforma digitale per la digitalizzazione di processi logistici portuali, facilita lo scambio dati tra soggetti pubblici e privati.
     longDescription: >-
       Il Port Community System (PCS) del Ministero delle Infrastrutture e dei Trasporti è una piattaforma digitale avanzata che semplifica e coordina tutte le operazioni logistiche e documentali del porto.
       Consente la digitalizzazione dei flussi di import/export, eliminando gran parte della documentazione cartacea e garantendo tracciabilità dello stato delle merci.
